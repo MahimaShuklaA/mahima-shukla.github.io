@@ -1,0 +1,149 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Bhooshan Gore
+    tagline: Data Analyst/Research Analyst 
+    avatar: profilepic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: bhooshan.gore@gmail.com
+    phone: +91 861 949 5335
+    website: bhooshangore.github.io #do not add http://
+    linkedin: bhooshan-gore
+    github: bhooshangore
+    gitlab:
+    bitbucket:
+    twitter: '@BhooshanGore'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Native
+
+      - idiom: Marathi
+        level: Native
+
+    interests:
+      - item: Data Analysis
+        link:
+
+      - item: Entreprenuership
+        link:
+
+      - item: Photography
+        link:
+        
+      - item: Trekking
+        link:  
+        
+      - item: Blockchain
+        link:
+        
+      - item: Blog Writing
+        link:
+        
+      - item: Marathons
+        link:
+         
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Inquisitive by nature and loves to learn about engineering experiences from others. I like to experiment with Data journalism based on Visual storytelling and data visualization. Interested in Data Science, Product Management, and Programming Languages. Eager to work on a combination of these areas to build products having an impact on someone's daily life.
+
+education:
+    - degree: MBATech in Business Intelligence & Analytics
+      university: NMIMS
+      time: 2014 - 2019
+      details: |
+        Majored in Business Intelligence and Analytics
+        Minor in Marketing
+
+experiences:
+    - role: Business Analyst/Digital Marketing Manager
+      time: 09/2019 - Present
+      company: Trespect India Pvt. Ltd.
+      details: |
+        Developing and evaluating various metrics and corresponding reporting framework to measure the effectiveness of the processes and procedures for digital lead generation.Coordinating with the Data Analytics Team to build effective machine learning model to optimize lead generation funnel through customer churn prediction and sentiment analysis.
+  
+          - Responsible to use analytics to achieve higher conversion rate in digital campaigns across various channels.
+          - Developing reports for C-level executives to analyze various digital marketing camapigns(City wise, PAN India Reports)
+          - Engage with channel partners and marketing agencies on a day-to-day basis for collaborative product management.
+     
+    
+    - role: Research Analyst/Account Manager
+      time: 04/2019 - 08/2019
+      company: Brand India Studio
+      details: |
+        A digital media group with various products like a tabloid, digital
+        magazine, OTT platform, powered by blockchain to promote
+        entrepreneurship globally
+
+          - Making a strategic alliance with embassies, chamber of commerce to facilitate our clients.
+          - Promote and make alliance for execution for various products and services.
+          - On-boarding social media influencers, progressive businesses on the platform.
+          - Research 
+
+    - role: Management Intern
+      time: 05/2018 - 09/2018
+      company: SHETH Publishing House
+      details: |
+        As a Intern I was responsible for engaging and increasing digital footprint of SHETH Publishing
+        House, which are one of the largest players in children educational marketspace in Mumbai.
+
+          - Increasing social media footprint to engage the target market
+          - Driving Organic as well as Inorganic traffic using Google AdWords Analytics
+          - Personalizing and tailoring email marketing campaigns and effective campaign delivery
+
+publications:
+    title: Certifications
+    intro: |
+
+    papers:
+      - title: Data Manipulation with Python Track
+        Issued By: DataCamp
+        credential id: b960397c2a27d7ee10767bcbf8c40a693a87c90e
+
+      - title: Lean Six Sigma Applications in IT
+        Issued By: Udemy
+        credential URL: http://ude.my/UC-H933UO9Z
+
+      - title: Software Requirement Engineering
+        Issued By: Udemy
+        credential URL: http://ude.my/UC-SEKC5P44
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: R
+        level: 75%
+
+      - name: SAS Visual Studio
+        level: 98%
+
+      - name: SQL
+        level: 80%
+
+      - name: Tableau
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 80%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="" target="_blank" rel="nofollow">Bhooshan gore</a>
